@@ -189,8 +189,6 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="CFuncSmoothDlg.h" />
-    <ClInclude Include="FuncMorphDlg.h" />
     <ClInclude Include="MyVisionTool.h" />
     <ClInclude Include="MyVisionToolDlg.h" />
     <ClInclude Include="Resource.h" />
@@ -198,8 +196,6 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CFuncSmoothDlg.cpp" />
-    <ClCompile Include="FuncMorphDlg.cpp" />
     <ClCompile Include="MyVisionTool.cpp" />
     <ClCompile Include="MyVisionToolDlg.cpp" />
     <ClCompile Include="stdafx.cpp">
